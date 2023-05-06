@@ -1,1 +1,1 @@
-# jornada-cientista-de-dados
+A Jornada Cientista de Dados é um curso oferecido pela empresa Let's Data, que tem como objetivo ensinar a ciência de dados de forma prática e aplicada ao mercado de trabalho. O curso é dividido em módulos que abordam desde a introdução à ciência de dados até a implementação de modelos de machine learning e deep learning em projetos reais.
